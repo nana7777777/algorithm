@@ -15,3 +15,6 @@ class Heap:
         return True
 
 print(Heap(10).insert(2))
+
+
+###heap 삭제
